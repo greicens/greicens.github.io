@@ -1,5 +1,5 @@
 # Personal Portifolio
-![alt text][git_avatar.png]
+![alt text](https://avatars2.githubusercontent.com/u/8587524?v=3&s=400)
 
 ## Usage
  This is for my personal use.
