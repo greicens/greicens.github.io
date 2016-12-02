@@ -13,25 +13,32 @@ h2{
 h3{
   text-align: center;
   padding: 20px;
+  color: #77C6A9;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
 }
 
 a{
   text-decoration: none;
-  color: #6ab47b;
+  color: rgba(0, 0, 0, 0.8);
 }
 
-a:hover{
-	background-color: #f4df42;
-  padding: 20px;
-}
 section{
   display: inline-block;
-  margin: 120px;
+  margin: 160px;
   float: left;
+}
+ul{
+  border-radius: 20px;
+  background-color: #77C6A9;
+  padding: 30px;
+  height: 300px;
+  width: 220px;
 }
 li{
   margin:30px;
   list-style-type: none;
+
 }
 body{
   background-color: rgba(61, 61, 61, 0.3);
