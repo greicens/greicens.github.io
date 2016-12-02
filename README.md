@@ -15,3 +15,11 @@
 3. Commit your changes: git commit -am 'Add some feature'
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request :D
+
+## Future Updates
+
+* Add a background picture
+* Make pop up disappear after the first time
+* Update colors to be more complimentary (check pantone.com)
+* Add a menu
+* Diminish the space between header and body
