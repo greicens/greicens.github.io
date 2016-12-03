@@ -29,8 +29,8 @@ section{
   float: left;
 }
 ul{
-  border-radius: 20px;
   background-color: #77C6A9;
+  border-radius: 20px;
   padding: 30px;
   height: 300px;
   width: 220px;
@@ -43,6 +43,7 @@ li{
 body{
   background-color: rgba(61, 61, 61, 0.3);
 }
+
 #gif{
   display: block;
   max-width: 150px;
